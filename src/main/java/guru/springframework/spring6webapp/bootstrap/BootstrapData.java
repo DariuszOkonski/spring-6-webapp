@@ -7,6 +7,8 @@ import guru.springframework.spring6webapp.repositories.BookRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
+SECTION 2 ASSIGMENT 1;
+
 @Component
 public class BootstrapData implements CommandLineRunner {
 
